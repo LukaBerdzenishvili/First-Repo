@@ -4,3 +4,4 @@ iron man
 captain america
 doctor strange
 logan
+mr fantastic

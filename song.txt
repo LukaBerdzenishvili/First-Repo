@@ -5,3 +5,4 @@ captain america
 doctor strange
 logan
 mr fantastic
+human torch
